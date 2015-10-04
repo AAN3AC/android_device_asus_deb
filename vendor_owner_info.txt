@@ -133,7 +133,7 @@ system/bin/mm-pp-daemon:qcom
 system/bin/mm-qcamera-daemon:qcom
 system/bin/mm-qjpeg-enc-test:qcom
 system/bin/mm-qomx-ienc-test:qcom
-system/bin/mpdecision:qcom
+###system/bin/mpdecision:qcom
 system/bin/netmgrd:qcom
 system/bin/nl_listener:qcom
 system/bin/port-bridge:qcom
