@@ -28,7 +28,7 @@
 /system/bin/mm-qcamera-daemon
 /system/bin/mm-qjpeg-enc-test
 /system/bin/mm-qomx-ienc-test
-###/system/bin/mpdecision
+/system/bin/mpdecision
 /system/bin/netmgrd
 /system/bin/nl_listener
 /system/bin/port-bridge
